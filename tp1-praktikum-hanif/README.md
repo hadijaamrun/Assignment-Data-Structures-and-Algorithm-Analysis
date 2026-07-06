@@ -21,6 +21,10 @@ Repository ini berisi implementasi dan analisis perbandingan kinerja antara stru
 | Penyisipan | 0.01970 | 0.04080 | Array |
 | Penghapusan | 0.06650 | 0.00580 | ArrayList |
 
+<img width="419" height="167" alt="Screenshot 2026-07-06 083342" src="https://github.com/user-attachments/assets/3d412416-b76c-435e-be30-5b246b96bfeb" />
+<img width="503" height="173" alt="Screenshot 2026-07-06 083347" src="https://github.com/user-attachments/assets/069086db-188c-4b6c-aac9-fed3dfc133c8" />
+<img width="414" height="143" alt="Screenshot 2026-07-06 083331" src="https://github.com/user-attachments/assets/9e84716a-8c5b-4cf0-bf8f-fc8da8f96966" />
+<img width="420" height="182" alt="Screenshot 2026-07-06 083337" src="https://github.com/user-attachments/assets/d41b82aa-452c-4fd8-a416-192303e49c00" />
 
 ## Kesimpulan
 
